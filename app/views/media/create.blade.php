@@ -1,0 +1,1 @@
+/var/www/html/testing/laravel-backend/app/views/medias/create.blade.php
